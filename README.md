@@ -2,12 +2,15 @@
 
 This VBA-Challenge repoository contains the following files:
    
-    Screenshots of results folder: (three screenshots of the results of the three worksheets)
-            multiple_year_stock_data_2018.png
-            multiple_year_stock_data_2019.png
-            multiple_year_stock_data_2020.png
+    Screenshots of results folder: (6 screenshots of the results of the three worksheets showing the top of the summary table and the bottom of the summary tables )
+            multiple_year_stock_data_2018_beginning.png
+            multiple_year_stock_data_2018_end.png
+            multiple_year_stock_data_2019_beginning.png
+            multiple_year_stock_data_2019_end.png
+            multiple_year_stock_data_2020_beginning.png
+            multiple_year_stock_data_2020_end.png
     
-    VBA script folder: (two scripts only files .bas and .vb
+    VBA script folder: (two scripts only files .bas and .vb)
             multiple_year_stock.vb
             multiple_year_stock_data.bas
 

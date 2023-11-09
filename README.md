@@ -11,6 +11,6 @@ This VBA-Challenge repoository contains the following files:
             multiple_year_stock.vb
             multiple_year_stock_data.bas
 
-The scripts used were all learned from the course with the addition of a script learned from the following website. This script was to conver the data from numbers to perventage with two decimal places. 
+The scripts used were all learned from the course with the addition of a script learned from the following website. This script was to convert the data from numbers with no decimals to percentage with two decimal places. 
 
 https://stackoverflow.com/questions/12962656/format-cells-in-excel-for-decimal-places-using-a-macro
